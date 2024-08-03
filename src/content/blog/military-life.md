@@ -20,7 +20,7 @@ description: 學會珍惜你目前所擁有的一切
 
 # 結訓令
 
-![耗費四個月所換來的一張紙，拿到時聞起來真香。](@assets/images/military-1.webp "結訓令")
+![耗費四個月所換來的一張紙，拿到時聞起來真香。](@assets/images/military-1.png "結訓令")
 
 # 寫在前頭
 
@@ -321,7 +321,7 @@ _最狗幹的是射擊預習，之前在山下，後來改成要去山上，說�
 
 # 小結
 
-![放假之國三景色](@assets/images/military-2.webp "放假之國三景色")
+![放假之國三景色](@assets/images/military-2.png "放假之國三景色")
 
 > 『學會珍惜你目前所擁有的一切』『勇敢追尋』
 
