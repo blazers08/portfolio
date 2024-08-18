@@ -17,11 +17,13 @@ Fascinated by remarkable software practices and engineering excellence, my belie
 
 ## Fun Facts
 
-TBD
+Want to travel around Africa
+Java is the first programming language I learned.
+I know a little Japanese/Korean/Spanish.
 
 ## Tech Stack
 
-#Python #Kotlin #Kubernetes #Docker
+#Python #Kotlin #Kubernetes #Docker ...
 
 ## Work Experience
 
@@ -29,25 +31,26 @@ TBD
 #### Software Engineer
 March 2023 - now | Taipei, Taiwan
 
-- Built messaging infrastructure for a single and consistent logic in C++ to bridge iOS and
-  Android with backend
-- Sped up the messaging experience in fetching feed and syncing feed by parallelization for 20%
-  through A/B study
-- Implemented GoogleTest to cover 99% of the business logic in both unit testing and
-  integration testing
+- Migrate some services from Java to Kotlin.
+- Rewrite leagacy PHP services to Kotlin to improve at lease 70% performance.
+- Design APIs for imports data or custome control events.
 
 ### ASUS
 #### Software Engineer
 March 2020 - March 2023 | Taipei, Taiwan
 
+- Develop and maintain web crawler to get open data from forum or e-commerce platform, such as Reddit, Amazon...etc (Python, Selenium, Docker, NoSQL)
+- Using Hadoop to process nearly TB-level data every week (Java, Hadoop, Sqoop)
+- Introduce and adapt Apache Airflow and transform legacy processes and implement new ETL processes onto Airflow. Being a mentor of Airflow of the team.
+- Refactor Hadoop Environment with Docker and redesign the legacy process with Hive on Spark and related framework.
+- Own a POC project of NLP. It is aimed to train an automated tagging model.
+- NoSQL (MongoDB)
+- Own several ETL tasks in order for planner to establish dashboards for other departments on their weekly meeting usage.
+
 ### Hewlett Packard Enterprise
 #### Software Engineer Intern
 July 2018 - July 2019 | Taipei, Taiwan
 
-- Established GraphQL APIs by Hack and created Python scripts that call the APIs to onboard
-  Jest tests, allowing iOS and Android developers to have a uniform script to onboard newly
-  written Jest tests
-- Recommended trial numbers to lower the standard deviation of metric values by over 25% for
-  three Jest tests
-- Tinkered new formula for reasonable trial numbers with senior engineers and reported the
-  process in daily standup
+- Develop a New Inventory Management System for Internal usage
+- Using Django and grommetJS
+- Adapt Agile Scrum on developing process
