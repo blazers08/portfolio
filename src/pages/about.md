@@ -28,7 +28,9 @@ I know a little Japanese/Korean/Spanish.
 ## Work Experience
 
 ### meteocontrol
+
 #### Software Engineer
+
 March 2023 - now | Taipei, Taiwan
 
 - Migrate some services from Java to Kotlin.
@@ -36,7 +38,9 @@ March 2023 - now | Taipei, Taiwan
 - Design APIs for imports data or custome control events.
 
 ### ASUS
+
 #### Software Engineer
+
 March 2020 - March 2023 | Taipei, Taiwan
 
 - Develop and maintain web crawler to get open data from forum or e-commerce platform, such as Reddit, Amazon...etc (Python, Selenium, Docker, NoSQL)
@@ -48,7 +52,9 @@ March 2020 - March 2023 | Taipei, Taiwan
 - Own several ETL tasks in order for planner to establish dashboards for other departments on their weekly meeting usage.
 
 ### Hewlett Packard Enterprise
+
 #### Software Engineer Intern
+
 July 2018 - July 2019 | Taipei, Taiwan
 
 - Develop a New Inventory Management System for Internal usage

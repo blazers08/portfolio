@@ -1,6 +1,7 @@
 This is an [AstroPaper](https://vercel.com/templates/astro/astro-paper) based on [Astro](https://astro.build) framework.
 
 ## Getting Started
+
 To create your own page:
 
 ```bash
@@ -38,7 +39,6 @@ result.
 
 You can start editing the page by modifying `src/content`. The page
 auto-updates as you edit the file.
-
 
 ## Deploy on Vercel
 
