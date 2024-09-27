@@ -31,7 +31,7 @@ I know a little Japanese/Korean/Spanish.
 
 #### Software Engineer
 
-March 2023 - now | Taipei, Taiwan
+March 2023 - now | Taipei, Taiwan | Hybrid
 
 - Migrate some services from Java to Kotlin.
 - Rewrite leagacy PHP services to Kotlin to improve at lease 70% performance.
@@ -41,7 +41,7 @@ March 2023 - now | Taipei, Taiwan
 
 #### Software Engineer
 
-March 2020 - March 2023 | Taipei, Taiwan
+March 2020 - March 2023 | Taipei, Taiwan | On-site
 
 - Develop and maintain web crawler to get open data from forum or e-commerce platform, such as Reddit, Amazon...etc (Python, Selenium, Docker, NoSQL)
 - Using Hadoop to process nearly TB-level data every week (Java, Hadoop, Sqoop)
@@ -55,7 +55,7 @@ March 2020 - March 2023 | Taipei, Taiwan
 
 #### Software Engineer Intern
 
-July 2018 - July 2019 | Taipei, Taiwan
+July 2018 - July 2019 | Taipei, Taiwan | On-site
 
 - Develop a New Inventory Management System for Internal usage
 - Using Django and grommetJS
